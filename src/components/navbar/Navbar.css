@@ -1,0 +1,18 @@
+.myNavbar {
+    height: 75px;
+    width: 100%;
+    background: #111;
+    color: #fff
+}
+
+.navbarTextBig {
+    font-family: 'Ceviche One', cursive;
+    font-size: 45px;
+    padding: 0px 10px;
+}
+
+.navbarTextSmall {
+    font-family: 'Ceviche One', cursive;
+    font-size: 30px;
+    padding: 0px 10px;
+}
